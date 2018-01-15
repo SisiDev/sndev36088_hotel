@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4570e3eadb2303008bd4fcdfbf9619d0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_user_grmember">
+    <sys_user_grmember action="INSERT_OR_UPDATE">
+        <group display_value="Maintenance" name="Maintenance">5410abb7db8b03008bd4fcdfbf9619ef</group>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-12 12:39:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4570e3eadb2303008bd4fcdfbf9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-12 12:39:03</sys_updated_on>
+        <user display_value="Polly  Sherman">6460e3eadb2303008bd4fcdfbf96197a</user>
+    </sys_user_grmember>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-15 11:24:33</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fa2cae27db2303008bd4fcdfbf9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2018-01-12 12:39:03</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_metadata_link_fa2cae27db2303008bd4fcdfbf9619f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-15 11:24:33</sys_updated_on>
+        <tablename>sys_user_grmember</tablename>
+    </sys_metadata_link>
+</record_update>
